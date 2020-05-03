@@ -2,27 +2,27 @@ const List = {
   list: [
     {
       id: 1,
-      title: "Fake Title one",
+      title: "Read some news",
     },
     {
       id: 2,
-      title: "Fake Title two",
+      title: "Go out for a walk",
     },
     {
       id: 3,
-      title: "Fake Title three",
+      title: "Do some exercise",
     },
     {
       id: 4,
-      title: "Fake Title four",
+      title: "Watch tutorials on YouTube",
     },
     {
       id: 5,
-      title: "Fake Title five",
+      title: "Netflix and chill",
     },
     {
       id: 6,
-      title: "Fake Title six",
+      title: "Read a book",
     },
   ],
   getList: function () {
